@@ -1,5 +1,4 @@
 import React from 'react';
-import '../common/template/dependencies';
 
 import Messages from '../common/msg/messages';
 import Footer from '../common/template/footer';
